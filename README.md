@@ -1,6 +1,6 @@
 # Improving DX of HTML Element References
 
-Authors: Lea Verou, Noam Rosenthal
+Authors: Lea Verou, Noam Rosenthal, Jeffrey Yasskin
 
 ## Motivation
 
